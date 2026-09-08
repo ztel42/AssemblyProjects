@@ -11,3 +11,10 @@ Several files here are **binaries / simulator jars** (for example `MarieSim.jar`
 - For a security-oriented portfolio, prefer source-first repos or clearly labeled vendor tooling with checksums.
 
 Authorized learning / coursework use only.
+
+
+## Changelog
+
+### 2026-09-07 — Trust documentation
+- Added README trust warning for simulator jars and other binary artifacts
+- Clarified preference for reading `.mas` / listing files over running unaudited jars on sensitive hosts
